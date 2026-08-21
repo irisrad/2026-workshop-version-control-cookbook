@@ -1,8 +1,8 @@
-# Nachos
+# Microwave Nachos
 
-## Write your name here.
+## by Iris Rademacher
 
-Write a description of your recipe here.
+For when you want nachos in a hurry.
 
 <br />
 <div align="center">
@@ -12,12 +12,16 @@ Write a description of your recipe here.
 
 ## Ingredients
 
-* Write a list of ingredients here.
+* Tortilla chips
+* Shredded cheese
 
 ## Instructions
 
-1. Write step-by-step instructions here.
+1. Lay out the chips in one layer on a microwave-safe plate.
+2. Sprinkle shredded cheese on top of the chips until they are as covered as you would like.
+3. Microwave for 1 minute and 20 seconds.
+4. Remove from microwave.
 
 ## Serving Suggestions
 
-* Write serving suggestions here.
+* Serve with pico de gallo and sour cream for dipping!
