@@ -1,4 +1,6 @@
-# Nachos
+Use this file as a template to get started with your recipe. You can find the Markdown [here](/recipe-template.md?plain=1).
+
+# Put the title of your recipe here.
 
 ## Write your name here.
 
