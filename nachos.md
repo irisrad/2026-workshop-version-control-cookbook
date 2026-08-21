@@ -6,7 +6,7 @@ For when you want nachos from the microwave. Yummy! 🧀
 
 <br />
 <div align="center">
-  If you'd like to include an image of the dish your recipe makes, you can copy it to your clipboard, open this file in the GitHub editor, and paste it where this text is. Otherwise, feel free to delete this section.
+  <img width="768" height="419" alt="Microwave-Nachos-Recipe-768x419-3957326940" src="https://github.com/user-attachments/assets/e8ee6a69-3806-45c7-96c9-f5d5557a6a0e" />
 </div>
 <br />
 
