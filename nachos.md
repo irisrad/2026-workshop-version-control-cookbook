@@ -2,7 +2,7 @@
 
 ## by Iris Rademacher
 
-For when you want nachos in a hurry.
+For when you want nachos from the microwave. Yummy! 🧀
 
 <br />
 <div align="center">
