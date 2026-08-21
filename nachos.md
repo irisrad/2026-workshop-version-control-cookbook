@@ -2,7 +2,7 @@
 
 ## Write your name here.
 
-Nachos from the microwave. Yummy!
+Nachos from the microwave. Yummy! Hooray!
 
 <br />
 <div align="center">
