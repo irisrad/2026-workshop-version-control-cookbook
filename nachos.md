@@ -2,7 +2,7 @@
 
 ## Write your name here.
 
-Write a description of your recipe here.
+Nachos from the microwave. Yummy! 🧀
 
 <br />
 <div align="center">
